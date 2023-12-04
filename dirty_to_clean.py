@@ -5,8 +5,8 @@ import re
 
 
 if __name__ == "__main__":
-    infilename = "reddit_dirty.txt"
-    outfilename = "reddit_clean.txt"
+    infilename = "reddit_dirty_dev.txt"
+    outfilename = "reddit_clean_dev.txt"
 
     swear_list = ["fuck", "shit", "bitch", "dick", "cunt", "wanker", "pussy", "damn", "ass", "asshole", "bastard", "dickhead", "goddamn"]
     pattern = swear_list.pop(0)
