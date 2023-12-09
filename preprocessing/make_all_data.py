@@ -20,11 +20,11 @@ for i in range(1, files):
     train = []
     dev = []
     test = []
-    for i in range(400):
+    for i in range(100):
         train.append(lines[i])
-    for i in range(400, 410):
+    for i in range(100, 110):
         dev.append(lines[i])
-    for i in range(410, 420):
+    for i in range(110, 120):
         test.append(lines[i])
         
     for line in train:
