@@ -23,19 +23,19 @@ if __name__ == "__main__":
     reddit_tainted_dev = open(f"{PATH}dev/reddit.dev.tainted", "w+")
     reddit_tainted_test = open(f"{PATH}test/reddit.test.tainted", "w+")
     
-    for i in range(15000):
+    for i in range(8000):
         reddit_clean_train.write(reddit_clean[i])
         reddit_dirty_train.write(reddit_dirty[i])
         reddit_cleaned_train.write(cleaned[i])
         reddit_tainted_train.write(tainted[i])
         
-    for i in range(2500):
+    for i in range(8000, 8000+2500):
         reddit_clean_dev.write(reddit_clean[i])
         reddit_dirty_dev.write(reddit_dirty[i])
         reddit_cleaned_dev.write(cleaned[i])
         reddit_tainted_dev.write(tainted[i])
         
-    for i in range(3500):
+    for i in range(8000+2500, 8000+2500+3500):
         reddit_clean_test.write(reddit_clean[i])
         reddit_dirty_test.write(reddit_dirty[i])
         reddit_cleaned_test.write(cleaned[i])
