@@ -1,0 +1,393 @@
+Attempt 1
+tainted-clean 0: test_bleu=0.3863968570825716
+tainted-clean 0: test_bleu=0.2898835105572897
+Attempt 2
+I'm not an billboard across all this is really not ever seen
+GME - works shares ago has no no dips man
+No who
+I will hold a should should want to be Bowl best to hold
+It's IS
+[1] train_loss=361673.508682251 train_ppl=138.628735995515 dev_ppl=53.26125670634854 dev_bleu=0.10219296693260316
+I'm not an full apes apes this is not financial funds
+GME - doing me has been no other millionaire - not locked in he actually all months
+No point
+I will hold should should should have to take to hold
+NO too
+[2] train_loss=239807.54356223345 train_ppl=26.31209048818498 dev_ppl=29.36555172091776 dev_bleu=0.1736344716994269
+I'm not just full apes saying this not not financial advice
+GME - is shares he has don't sell
+No point
+I will hold should should have to lost hold to
+Check crazy
+[3] train_loss=200243.5396195054 train_ppl=15.341041139764767 dev_ppl=26.409417243497423 dev_bleu=0.15792544515380177
+I'm not an full apes this this not financial advice
+GME - than shares he has only only
+No point
+I will hold should should should have to hold hold
+Effing
+[4] train_loss=180129.94186073542 train_ppl=11.66113555227907 dev_ppl=23.071436766401305 dev_bleu=0.221826269819929
+I'm not an retard apes this this not financial financial advice
+GME - how shares he he has a balls
+No point
+I will hold
+Bruhh spotted
+[5] train_loss=166434.15852236748 train_ppl=9.674611929459445 dev_ppl=21.882707184833503 dev_bleu=0.22268084276695405
+I'm not an retard apes apes is not financial advice
+GME - total shares he has been cult
+No point
+I will hold
+NO
+[6] train_loss=155975.06564863026 train_ppl=8.388690042620633 dev_ppl=21.500420022518867 dev_bleu=0.24117521061020816
+I'm not an retard apes this is not financial advice,
+GME - total he he has doing a
+No point
+I will hold should should should to to hold to hold
+Exactly
+[7] train_loss=147578.69591738284 train_ppl=7.48118368668789 dev_ppl=21.130689215542567 dev_bleu=0.21074194536138618
+I'm not an retard apes this is not financial advice
+GME - total shares he has been bought,
+No point
+I will hold
+Exactly
+[8] train_loss=140515.48696264625 train_ppl=6.794250430277073 dev_ppl=21.538783194095004 dev_bleu=0.25952632152498106
+I'm not an full apes apes is is not fellow fellow full apes apes is this is too
+GME - total shares he has bought, bought,
+No point
+I will hold should should should to left to to hold
+Exactly
+[9] train_loss=133979.61031843722 train_ppl=6.214921937200301 dev_ppl=20.92314957230993 dev_bleu=0.24886077416634386
+I'm not an full apes apes is not financial advice,
+GME - total shares he has American cult
+No point
+I will hold should should have to left to to hold
+Exactly
+[10] train_loss=128629.70894049108 train_ppl=5.777676555659272 dev_ppl=21.503159786759543 dev_bleu=0.23705189235367255
+I'm not an full apes apes is not financial advice,
+GME - total shares he has American cult
+No could’ve
+I will hold should should have to left to hold to
+Exactly
+[11] train_loss=123885.85054826736 train_ppl=5.415764833524083 dev_ppl=20.999856311954574 dev_bleu=0.24315420833330736
+I'm not an retard apes apes is not is fellow
+GME - total shares he has bought, cult
+No point
+I will hold
+Yessssssssssssss BRRRRRRRRRR 🤣👍
+[12] train_loss=119451.39113122225 train_ppl=5.097986139388 dev_ppl=21.736499366349015 dev_bleu=0.23178256741683456
+I'm not an retard apes this is not financial advice,
+GME - total shares he has bought, cult
+No point
+I will hold should should have to left to hold to
+Bing spotted
+[13] train_loss=115507.51464003325 train_ppl=4.831063720449949 dev_ppl=21.549221080295673 dev_bleu=0.2495145720271044
+I'm not an retard apes apes is not financial advice, this moment
+GME - total shares he has bought, bought,
+No point
+I will hold should should have to left
+Hilarious
+[14] train_loss=111672.98723167181 train_ppl=4.584948409555407 dev_ppl=21.250881831116146 dev_bleu=0.24647240139209073
+I'm not an full apes apes is is financial advice, I full
+GME - total shares he has bought, cult
+No point
+I will hold should should should to left to hold to
+Hilarious
+[15] train_loss=108376.03288935125 train_ppl=4.383385658108749 dev_ppl=22.07064970240608 dev_bleu=0.2318062927085458
+I'm not an full apes apes is is financial advice
+GME - total shares he has been bought,
+No point
+I will hold should should have to left to hold
+Priceless BRRRRRRRRRR Hydrogen
+[16] train_loss=105104.46364575624 train_ppl=4.192134842470921 dev_ppl=22.082521163113515 dev_bleu=0.2607452226775425
+tainted-clean 1: test_bleu=0.2493717914257977
+HOLY MY FUCKING BALLS
+Bro I could buy ME FUCKIN 💎
+I’m still need one KING you fucking
+HOLY FUCKING BALLS
+Hey fucking from the with with you had to buy in the hedge funds
+[1] train_loss=414489.62830650806 train_ppl=171.97359180099934 dev_ppl=67.30867632997438 dev_bleu=0.05229865115505134
+I’ve never been so proud of a be a fucking hands
+Bro I could sell right now a dick
+I’m still dude a share you goddamn legend
+Fucking APES YOU
+Eat from the fucking Europe with a 2 and funny
+[2] train_loss=300098.57301947474 train_ppl=41.54491788112377 dev_ppl=44.99350151986723 dev_bleu=0.12493744366766636
+I’ve never been so fucking proud to be a part of in this
+Bro I could gonna AM no fucking is a bitch
+I’m in one a share you goddamn legend
+APES magnificent bastard
+Eat from the fucking balls
+[3] train_loss=260308.0933714509 train_ppl=25.34640706653319 dev_ppl=41.013303975920785 dev_bleu=0.1360666261541401
+I’ve never been so proud of be be a fucking in
+Bro I could cry right now, now, is a great fucking cry
+I’m in for a share you goddamn goddamn legend
+APES FUCKING APES
+Eat from the fucking Europe
+[4] train_loss=237401.32365345955 train_ppl=19.071006269911656 dev_ppl=39.32375227327674 dev_bleu=0.1556891046844651
+I’ve never been so proud to be be a ape in my fucking life
+Bro I could cry fucking now, now, is a a great cry
+I’m in for a share you goddamn legend
+APES DeepFuckingValue
+Eat from the damn Europe
+[5] train_loss=221574.71821308136 train_ppl=15.668094218519085 dev_ppl=38.19002377435016 dev_bleu=0.1665775452636939
+I’ve never been so proud to be be a ape in my fucking life
+Bro I could fucking cry now, now, is a is great fucking hard
+I’m in for a share you goddamn legend
+APES FUCKING APES
+Eat from the damn Europe
+[6] train_loss=208069.2305892408 train_ppl=13.248819881866801 dev_ppl=38.9680628796576 dev_bleu=0.16091701288235832
+I’ve never been so proud to be be a fucking ape in my life
+Bro I could fucking cry now, now, is
+I’m in for a share you goddamn legend
+APES FUCKING doubled
+Eat from the damn fucking with my wife
+[7] train_loss=197557.69951319695 train_ppl=11.627476915164435 dev_ppl=38.421684691551086 dev_bleu=0.1674240161687121
+I’ve never been so proud to be a be dirty in my ass
+Bro I could fucking cry now, now, is a shit
+I’m in for a share you goddamn legend
+APES
+Eat from the damn Europe
+[8] train_loss=188161.90549206734 train_ppl=10.346924182931168 dev_ppl=38.84912161100998 dev_bleu=0.17568641562571852
+I’ve never been so fucking proud to be be a ape my wife
+Bro I could cry right now, now, is a fucking great
+I’m in for a share you goddamn legend
+APES DeepFuckingValue
+Eat from the damn Europe
+[9] train_loss=180426.02993395925 train_ppl=9.399169148513854 dev_ppl=39.23530813673331 dev_bleu=0.1723978503147074
+I’ve never been so fucking proud to be be a ape in my life
+Bro I could cry right now, now, is a fucking great
+I’m in for a share you goddamn legend
+Fucking APES
+Eat from the fucking Europe
+[10] train_loss=172778.62781837583 train_ppl=8.547612519228265 dev_ppl=39.877693261831226 dev_bleu=0.18059731819905442
+I’ve never been so proud of you be a ape in my ass in my life
+Bro I could fucking cry right now
+I’m in for a share you goddamn legend
+APES OF ONE OF ON OF APES acc with myself TO US plus death 💎 🙌 💎 🙌
+Eat from the damn Europe
+[11] train_loss=166274.83320581913 train_ppl=7.884388064211298 dev_ppl=41.432106346162264 dev_bleu=0.17454001513294723
+I’ve never been so proud to be be a ape in my ass in my life
+Bro I could cry right now, now, is a great fucking cry
+I’m in for a share you goddamn legend
+APES
+Eat from the fucking Europe
+[12] train_loss=160550.35970270634 train_ppl=7.343350539062837 dev_ppl=41.11022477874243 dev_bleu=0.18241052608940617
+I’ve never been so proud to be be a ape in my ass of my life
+Bro I could cry right now, now, is a great fucking STONK
+I’m in for a share you goddamn legend
+Fuck APES OF
+Eat from the fucking Europe
+[13] train_loss=154831.25490632653 train_ppl=6.839895760677536 dev_ppl=43.526357635441265 dev_bleu=0.1731574406717083
+I’ve never been so proud to be be a ape in my fucking life
+Bro I could cry right now, now, is a great fucking cry
+I’m in for a share you goddamn legend
+APES OF OF EVERYONE AND ONE OF APES feet 😂😂😂
+Me from the fucking Europe
+[14] train_loss=150043.09107798338 train_ppl=6.445038836801478 dev_ppl=42.39777756248286 dev_bleu=0.17346215449494864
+I’ve never been so proud to be be a ape in my ass
+Bro I could cry right now, now, is a great fucking longer now, now, now, now, no
+I’m in for a share you goddamn legend
+APES
+Me from the fucking loving my gme
+[15] train_loss=145360.3600052297 train_ppl=6.080933070267138 dev_ppl=44.19455203318305 dev_bleu=0.1691280872425582
+I’ve never been so proud to be be a ape in my fucking my life
+Bro I could cry right now, now, is a great fucking STONK
+I’m in for a share you goddamn legend
+Fuck APES
+Me from the fucking giving with the 2 stocks, stocks, the shit
+[16] train_loss=141072.20410001278 train_ppl=5.765579507138297 dev_ppl=44.281802573977195 dev_bleu=0.17650532081936182
+tainted-clean 1: test_bleu=0.2099458729925837
+Attempt 3
+I'm not an god and is not not a an street
+GME - $GME
+No needs to get the moon
+I will hold
+Haha I bought but
+[1] train_loss=399474.267742753 train_ppl=232.11955846011404 dev_ppl=90.03723294946094 dev_bleu=0.06537300518257064
+I'm not an god and this is not
+GME - Everyone shares he has
+No Omg
+I will hold retards
+Wait, worth but I
+[2] train_loss=277400.5031248331 train_ppl=43.9322275823151 dev_ppl=49.76935661328568 dev_bleu=0.15632394605034036
+I'm not an boat and is not financial advice
+GME - bought shares has a
+No costs
+I will hold tomorrow
+Puts worth but I
+[3] train_loss=233897.23932778835 train_ppl=24.27471617038502 dev_ppl=40.79741580268854 dev_bleu=0.19366183412699198
+I'm not an repost and this is not financial advice
+GME - total shares he has for
+No costs
+I will hold tomorrow
+Whats worth but I
+[4] train_loss=211652.85196486115 train_ppl=17.92344550707093 dev_ppl=37.31624960083351 dev_bleu=0.22606898633561062
+I'm not an website and this is not hold
+GME - total shares he has
+No costs
+I will hold your retards
+Freaking worth but I
+[5] train_loss=196221.0102470219 train_ppl=14.52222504845855 dev_ppl=36.383908587664735 dev_bleu=0.22950742983731579
+I'm not an distractions, and this is not hold
+GME - total shares he has used to
+No distractions, no
+I will hold it, retards
+Freaking retard but I need to find GME but but I
+[6] train_loss=183645.99984645844 train_ppl=12.233850252601973 dev_ppl=36.743629955239946 dev_bleu=0.23187162602534664
+I'm not an costs and this is not hold
+GME - - shares he has been
+No costs
+I will hold 5 -
+Start worth but I
+[7] train_loss=173729.73176002502 train_ppl=10.686571529883864 dev_ppl=36.19906833097233 dev_bleu=0.2403857117475071
+I'm not an costs and this is not hold hold
+GME - instead shares he has to buy
+No costs
+I will hold gme
+Start worth but I
+[8] train_loss=164703.91871532798 train_ppl=9.44902427161107 dev_ppl=37.27097803018279 dev_bleu=0.24361530298795772
+I'm not an plums and this is not hold the hold
+GME - total shares he has for the moon
+No costs
+I will hold gme together
+Start worth but I
+[9] train_loss=157333.4499899745 train_ppl=8.54552177705466 dev_ppl=37.78475387468268 dev_bleu=0.24650237840638095
+I'm not an plums and this is not hold
+GME - I'm shares he has been taken
+No costs
+I will hold gme retards
+Start worth but I
+[10] train_loss=150342.70941904187 train_ppl=7.7685323745789345 dev_ppl=37.833929362575844 dev_bleu=0.24598657009443511
+I'm not an plums and this is not hold hold
+GME - total shares he has for
+No No
+I will hold gme $AMC
+Start worth but I
+[11] train_loss=144576.48185376823 train_ppl=7.181100713896179 dev_ppl=38.57633020600148 dev_bleu=0.24543458415743655
+I'm not an plums and this is not hold
+GME - - shares he has to -
+No costs
+I will hold gme gme
+Start worth but I
+[12] train_loss=139299.01737125218 train_ppl=6.682478053567768 dev_ppl=38.06259199089592 dev_bleu=0.2487917525655697
+I'm not an application and this is not hold hold
+GME - total shares he has a day
+No No
+I will hold gme gme
+Kind of a lame
+[13] train_loss=134383.7921564579 train_ppl=6.249269705217963 dev_ppl=38.81487660931403 dev_bleu=0.25069229330079024
+I'm not an plums and this is not financial advice
+GME - total shares he has to
+No No
+I will hold gme gme
+Start planning but I 🚀🚀🚀
+[14] train_loss=129961.91968932748 train_ppl=5.883593526639926 dev_ppl=38.13340744641452 dev_bleu=0.24820196511388432
+I'm not an mark and this is not hold hold
+GME - total shares he has to
+No distractions, no surrender
+I will hold gme gme
+Start planning but EDIT:
+[15] train_loss=126469.55671714246 train_ppl=5.609971672770845 dev_ppl=40.128943782016655 dev_bleu=0.24720753304993595
+I'm not an astronaut and this is not hold
+GME - total shares he has a day of total now
+No No
+I will hold gme
+Kind of a almighty
+[16] train_loss=122284.38342267275 train_ppl=5.298779029408348 dev_ppl=38.82038449513563 dev_bleu=0.2391458871469332
+tainted-clean 2: test_bleu=0.21465352532889848
+this damn never been been deep in you be been still never be a fucking VALUE
+this is could literally THAT a fucking right
+in in for a a fucking you you
+Fucking LEAVIN
+from from the fucking moon you my legend
+[1] train_loss=416797.5033158064 train_ppl=176.97372638053875 dev_ppl=68.61745562879419 dev_bleu=0.02943295244613965
+I’ve never been so say why be a fucking pissed
+Bro I could literally literally a fucking this is this is this is is still like this and I can buy at this shit
+I’m in for a a share you goddamn legend
+VIDEO unreal
+from the the Fucking MOON you my wife
+[2] train_loss=306035.1528492272 train_ppl=44.723479774189535 dev_ppl=48.48096986943083 dev_bleu=0.08546921105738751
+I’ve never been so fucking proud to be a legend
+Bro I could right right right now this is a fucking gain is the fucking value
+Fucking in
+Fucking Chad
+from from the Fucking Europe with my my wife
+[3] train_loss=266738.0970605016 train_ppl=27.453344786719867 dev_ppl=44.13365995444622 dev_bleu=0.11667265301686364
+I’ve been been so proud proud to be a legend proud of him
+Bro I could literally right right now this is a fucking buy me
+I’m in for a share share you goddamn legend
+APES Don’t WILL AS THE MOON LEAVIN
+Eat from the Europe Fucking with my wife
+[4] train_loss=244078.33322498202 train_ppl=20.719756234795685 dev_ppl=41.970996192830135 dev_bleu=0.1470580326584593
+I’ve never been so proud to be be a legend proud of so much
+Bro I could right right now this shit is a put a cry
+I’m in for a a you goddamn goddamn value in this
+FUCKING APES dude, much
+Eat from the Europe Europe with my 2 work assholes
+[5] train_loss=227354.40520498157 train_ppl=16.834014173840195 dev_ppl=43.1786582999552 dev_bleu=0.16538311142199494
+I’ve never so so fucking proud to be a been to ape
+Bro I could join right right now this is a fucking buy
+I’m in for a share you goddamn legend
+APES homo
+Eat from the Europe I fuck my wife
+[6] train_loss=214339.08285659552 train_ppl=14.321625472121953 dev_ppl=41.79365449665785 dev_bleu=0.16337598814979856
+I’ve never been so proud to be be a did
+Bro I could right right now now, to the fuck
+I’m in for a share you goddamn legend
+APES u/DeepFuckingValue dude, much
+Eat from the Europe Europe my wife 2 IT
+[7] train_loss=203288.2992952019 train_ppl=12.485106708127505 dev_ppl=43.210156709407435 dev_bleu=0.1599088533844672
+I’ve never been so proud proud be be a did in in in this ape
+Bro I could cry right right fucking leavin
+I’m in for a share you goddamn goddamn legend for this time
+APES u/DEEPFUCKINGVALUE
+Eat from the Europe with my wife 2 stocks, I could be but fuck you know
+[8] train_loss=193498.47952485085 train_ppl=11.055870554959329 dev_ppl=43.233056240530054 dev_bleu=0.17302239836816208
+I’ve never so so fucking proud to be a did my ape ass
+Bro I could cry right right this shit is a buy
+I’m in for a share you goddamn goddamn legend
+APES HAIL /u/DeepFuckingValue will OUR link for the price any of DeepFuckingValue
+Eat the actual FUCKING Europe
+[9] train_loss=184654.23596388102 train_ppl=9.905887611382317 dev_ppl=43.847826547523866 dev_bleu=0.15074604928108054
+I’ve been been so proud proud be be a did
+Bro I could cry right shit shit this is is the buy
+I’m in for a share you goddamn goddamn legend
+APES push
+Eat from the Fucking Europe
+[10] train_loss=177416.1085768491 train_ppl=9.054325305018669 dev_ppl=44.14704508035664 dev_bleu=0.16970298966745578
+I’ve never been so fucking proud to be a never proud of my life
+Bro I could cry right right this shit is a buy
+I’m in for a share you goddamn goddamn legend
+APES 👑
+Eat from the Fucking Europe with my wife
+[11] train_loss=170662.7199510634 train_ppl=8.325937124450013 dev_ppl=45.1006941050124 dev_bleu=0.17987951362050575
+I’ve never been so proud proud be be a ape ape ape but you can be a ape
+Bro I could cry right here in this is a fucking buy
+I’m in for a share you goddamn goddamn goddamn legend
+APES they're
+Eat from the Fucking Europe
+[12] train_loss=164549.32289861143 train_ppl=7.717236656504818 dev_ppl=45.67739340653932 dev_bleu=0.1741509820448718
+I’ve never been so proud proud be be a ape ape
+Bro I could cry right here now, this fucking war
+I’m in for a share you goddamn goddamn legend
+APES sells
+Eat from the Fucking Europe with my wife
+[13] train_loss=159009.17753098905 train_ppl=7.204141283124783 dev_ppl=46.533595940428874 dev_bleu=0.17396791588224608
+I’ve never been so proud to be a fucking never ape ass
+Bro I could cry right here now, this fucking could be a fucking value could be
+I’m in for a share you goddamn goddamn legend
+APES /u/DeepFuckingValue is not buy more than robinhood to he can make some money back
+Eat from the Fucking Europe with my wife
+[14] train_loss=153681.67075301707 train_ppl=6.742942328625911 dev_ppl=48.123993913388816 dev_bleu=0.17489809459971767
+I’ve never been so proud to be be a did my ape ass ape
+Bro I could cry right right this shit
+I’m in for a share you goddamn goddamn legend for you share
+APES APES /u/DeepFuckingValue was was already was to APES has ever
+Eat from the Fucking Europe with my wife
+[15] train_loss=148887.57107907534 train_ppl=6.353214040859901 dev_ppl=50.39400871748343 dev_bleu=0.17709833752508775
+I’ve never been so proud to be be a ape ape ape in the same shit
+Bro I could cry right here
+I’m in for a share you goddamn goddamn legend
+APES Nah,
+Eat from the dongus with my wife 2 2 I wanna motherfucker
+[16] train_loss=144283.74139983952 train_ppl=6.000172133378795 dev_ppl=50.17468546508825 dev_bleu=0.17861650598346493
+/usr/local/src/pytorch/aten/src/ATen/native/cuda/IndexKernel.cu:92: operator(): block: [128,0,0], thread: [32,0,0] Assertion `index >= -sizes[i] && index < sizes[i] && "index out of bounds"` failed.
